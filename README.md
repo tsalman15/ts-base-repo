@@ -1,2 +1,2 @@
 # ts-base-repo
-comment in development in customer repo
+comment in customer repo
