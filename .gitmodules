@@ -1,0 +1,3 @@
+[submodule "base-repo"]
+	path = base-repo
+	url = https://github.com/syedtauha/base-repo
